@@ -102,14 +102,14 @@ Stworzenie modelu przewidującego ceny wynajmu pomoże zminimalizować te proble
 
 ## Plan pracy**
 | Etap | Zadania | Tydzień | Estymowany czas |
-|--|--|--|--|
-|Przetwarzanie danych|Wczytanie danych, Czyszczenie danych, Kodowanie zmiennych|1| 1 dzień|
-|Eksporacja danych (EDA)|Analiza statystyczna, Wizualizacje, Wnioski z analizy|1| 1 dzień
-|Trenowanie modelu|Wybór modeli, Trenowanie, Optymalizacja| 1 | 1 dzień
-|Walidacja i testowanie| Ocena modelu, Obliczenie metryk, Analiza wyników|1| 1 dzień
-|Dokształcanie modelu| Dalsza optymalizacja, Walidacja krzyżowa | 1 | 1 dzień
-|Publikacja i wdrożenie| Przygotowanie modelu do wdrożenia, Dokumentacja techniczna |1 | 1 dzień
-|Prezentacja|Przygotowanie prezentacji, Sporządzenie raportu | 1 | 1 dzień
+|--|--|---------|-----------------|
+|Przetwarzanie danych|Wczytanie danych, Czyszczenie danych, Kodowanie zmiennych| 1       | 4 dni           |
+|Eksporacja danych (EDA)|Analiza statystyczna, Wizualizacje, Wnioski z analizy| 2       | 4 dni         
+|Trenowanie modelu|Wybór modeli, Trenowanie, Optymalizacja| 3       | 6 dni         
+|Walidacja i testowanie| Ocena modelu, Obliczenie metryk, Analiza wyników| 4       | 2 dni         
+|Dokształcanie modelu| Dalsza optymalizacja, Walidacja krzyżowa | 5       | 5 dni         
+|Publikacja i wdrożenie| Przygotowanie modelu do wdrożenia, Dokumentacja techniczna | 6       | 4 dni         
+|Prezentacja|Przygotowanie prezentacji, Sporządzenie raportu | 7       | 3 dni         
 
 **- Podlega aktualizacji
 
